@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../GitLab"
+		},
+		{
+			"name": "weblayout_project",
+			"path": "../GitLab/weblayout_project"
+		}
+	],
+	"settings": {}
+}
